@@ -1,0 +1,15 @@
+name: HappyKids
+title: HappyKids
+url: https://HappyKidsFamily.ca
+baseurl: ""
+permalink: :categories/:title
+exclude:
+  - deprecated
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+highlighter: rouge
+markdown: kramdown
+permalink: :categories/:title
+plugins:
+  - jekyll-redirect-from
