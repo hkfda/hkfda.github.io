@@ -60,7 +60,7 @@ blockquote {
 .entry-content {
 }
 .entry-content a {
-  color: #69959c;
+  color: #56509f;
   text-decoration: none;
 }
 .entry-content a:hover {
@@ -74,7 +74,7 @@ blockquote {
   color: #792c5c;
 }
 .entry-content h4 {
-  color: #69959c;
+  color: #56509f;
 }
 .entry-cell {
   box-sizing: border-box;
@@ -90,7 +90,7 @@ blockquote {
   margin-left: 100px;
 }
 .entry-cell-text a {
-  color: #69959c;
+  color: #56509f;
 }
 .entry-cell-icon {
   float: left;
@@ -102,6 +102,7 @@ blockquote {
   border: 1px solid;
   border-color: #56509f;
   border-radius: 999px;
+  position: absolute;
 }
 @media (min-width: 992px) {
 .entry-col-md-4 {
@@ -180,7 +181,7 @@ Home Page
     margin:0rem;
     font-family:'Open Sans';
     font-size:1.2rem;
-    padding-top:2rem;
+    padding-top:1rem;
     text-align:justify;
   }
 
@@ -523,7 +524,6 @@ Top Navigation Bar
     font-family:'Open Sans';
     text-transform:uppercase;
     color:#56519e;
-    font-size:.9rem;
   }
 
   .lang {
@@ -653,23 +653,19 @@ Lesson Typography
 
   h2 {
     font-size:1.6rem;
-    margin-top:3rem;
     letter-spacing:-.02rem;
   }
 
   h3 {
     font-size:1.4rem;
-    margin-top:2.5rem;
   }
 
   h4 {
     font-size:1.2rem;
-    margin-top:1.8rem;
   }
 
   h5 {
     font-size:1.0rem;
-    margin-top:1.4rem;
   }
 
   h1 a, h2 a, h3 a, h4 a, h5 a {
