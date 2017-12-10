@@ -403,15 +403,14 @@ Top Navigation Bar
 ========================================================================== */
 
   .navbar {
-    background-color:#555;
     padding: .6rem 1rem;
-    margin: 0 0 3rem 0;
+    height: 6rem;
   }
 
   .navbar-light .navbar-nav .nav-link {
     font-family:'Open Sans';
     text-transform:uppercase;
-    color:#ccc;
+    color:#56519e;
     font-size:.9rem;
   }
 
@@ -742,7 +741,7 @@ Footer
     font-family:'Open Sans';
     font-size:.9rem;
     color:#ccc;
-    background-color:#666;
+    background-color:#56519e;
     text-align:center;
   }
 
