@@ -2,6 +2,7 @@
 layout: base
 title: HappyKidsFamily
 ---
+
 <div style="text-align:center">
 	<div style="height: 2px; background: #fe6500; width: 100%;"></div>
 	<img src="{{ site.baseurl }}/slider.png" />
@@ -12,47 +13,43 @@ title: HappyKidsFamily
 	</div>
 </div>
 <div class="home-block">
-	<div class="container">
-		<h2>Welcome to Happy Kids Family</h2>
-	</div>
 
 <div class="entry-wrap">
 		<div class="entry-content">
-
-<div class="entry-container">
-				<div class="entry-row">
-					<div class="entry-cell entry-col-md-3">
-						<i class="entry-cell-icon fa fa-fw fa-trophy"></i>
-						<div class="entry-cell-text">
-							<h4>Morbi Etos</h4>
-							<p>Praesent interdum est gravida vehicula est node maecenas loareet morbi a dosis luctus novum est praesent.</p>
-						</div>
-					</div>
-					<div class="entry-cell entry-col-md-3">
-						<i class="entry-cell-icon fa fa-fw fa-hourglass-half"></i>
-						<div class="entry-cell-text">
-							<h4>Congue Gravida</h4>
-							<p>Elipsis magna a terminal nulla elementum morbi elite forte maecenas est magna etos interdum vitae est.</p>
-						</div>
-					</div>
-				</div>
-				<div class="entry-row">
-					<div class="entry-cell entry-col-md-3">
-						<i class="entry-cell-icon fa fa-fw fa-cubes"></i>
-						<div class="entry-cell-text">
-							<h4>Maecenas Node</h4>
-							<p>Praesent interdum est gravida vehicula est node maecenas loareet morbi a dosis luctus novum est praesent.</p>
-						</div>
-					</div>
-					<div class="entry-cell entry-col-md-3">
-						<i class="entry-cell-icon fa fa-fw fa-tablet"></i>
-						<div class="entry-cell-text">
-							<h4>Praesent Morbi</h4>
-							<p>Elipsis magna a terminal nulla elementum morbi elite forte maecenas est magna etos interdum vitae est.</p>
-						</div>
-					</div>
-				</div>
-			</div>	
+			<div class="entry-container">
+							<div class="entry-row">
+								<div class="entry-cell entry-col-md-3">
+									<i class="entry-cell-icon fa fa-fw fa-trophy"></i>
+									<div class="entry-cell-text">
+										<h4>Morbi Etos</h4>
+										<p>Praesent interdum est gravida vehicula est node maecenas loareet morbi a dosis luctus novum est praesent.</p>
+									</div>
+								</div>
+								<div class="entry-cell entry-col-md-3">
+									<i class="entry-cell-icon fa fa-fw fa-hourglass-half"></i>
+									<div class="entry-cell-text">
+										<h4>Congue Gravida</h4>
+										<p>Elipsis magna a terminal nulla elementum morbi elite forte maecenas est magna etos interdum vitae est.</p>
+									</div>
+								</div>
+							</div>
+							<div class="entry-row">
+								<div class="entry-cell entry-col-md-3">
+									<i class="entry-cell-icon fa fa-fw fa-cubes"></i>
+									<div class="entry-cell-text">
+										<h4>Maecenas Node</h4>
+										<p>Praesent interdum est gravida vehicula est node maecenas loareet morbi a dosis luctus novum est praesent.</p>
+									</div>
+								</div>
+								<div class="entry-cell entry-col-md-3">
+									<i class="entry-cell-icon fa fa-fw fa-tablet"></i>
+									<div class="entry-cell-text">
+										<h4>Praesent Morbi</h4>
+										<p>Elipsis magna a terminal nulla elementum morbi elite forte maecenas est magna etos interdum vitae est.</p>
+									</div>
+								</div>
+							</div>
+						</div>	
 					</div>
 			</div>	
 	
