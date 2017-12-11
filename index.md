@@ -43,7 +43,7 @@ title: HappyKidsFamily
 									</div>
 								</div>
 								<div class="entry-cell entry-col-md-3">
-									<i class="entry-cell-icon fa fa-fw fa-tablet"></i>
+									<i class="entry-cell-icon fa fa-fw fa-compass"></i>
 									<div class="entry-cell-text">
 										<h3>Praesent Morbi</h3>
 										<p>Elipsis magna a terminal nulla elementum morbi elite forte maecenas est magna etos interdum vitae est.</p>
