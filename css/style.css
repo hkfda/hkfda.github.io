@@ -63,11 +63,10 @@ body {
 }
 
 .entry-cell-icon {
+	height: 1.25em;
 	float: left;
-	font-size: 48px;
-	width: 76px;
-	padding: 14px 0;
-	margin: 14px;
+	font-size: 60px;
+	padding: 15px;
 	color: #fe6500;
 	border: 1px solid;
 	border-color: #fe6500;
