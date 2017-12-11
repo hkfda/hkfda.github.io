@@ -1,9 +1,9 @@
 ---
 layout: blank
-title: About Us
+title: Parents
 ---
 
-# About Us
+# Parents
 
 ## Coming Soon!
 
