@@ -5,7 +5,8 @@ title: HappyKidsFamily
 
 <div style="text-align:center">
 	<div style="height: 2px; background: #fe6500; width: 100%;"></div>
-	<img src="{{ site.baseurl }}/slider.png" />
+	<img class="desktop-only" src="{{ site.baseurl }}/slider.png" />
+	<img class="mobile-only" src="{{ site.baseurl }}/slider_small.png" />
 	<div style="height: 1rem; background: #56509f; width: 100%;"></div>
 	<div style="width: 100%; padding-top: 20px;">
 		<a href="{{site.baseurl}}/index" style="font-size: 1.5rem; font-weight: bold; display: inline-block; color: #fff; background: #fe6500; width: 20rem; padding: 10px; margin: 10px">Looking for Child Care</a>
